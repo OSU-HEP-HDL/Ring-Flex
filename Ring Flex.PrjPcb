@@ -299,10 +299,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Ring Flex\Design Rule Check - Ring Flex(1).html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=CERNProject
 Value=CERNProject
