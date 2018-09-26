@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Ring Flex.PrjPcb
+[Project2]
+ProjectPath=..\..\..\Common\Scripts\CalculateCopperArea\CalculateCopperArea.PrjScr
+[Project3]
+ProjectPath=..\..\..\Hardware Panels\Ring Flex Panel\Ring Flex Panel.PrjPcb
+[Project4]
+ProjectPath=..\..\..\Templates\Projects\Panel Level\Real_World_Boards-Panel_220x440-L6.PrjPcb

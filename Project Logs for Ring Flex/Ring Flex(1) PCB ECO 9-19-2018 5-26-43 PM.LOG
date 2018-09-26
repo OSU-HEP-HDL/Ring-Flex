@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Data1_Module 5_N Pin=P2-33
+Removed Pin From Net: NetName=Data1_Module 5_P Pin=P2-35
+Added Pin To Net: NetName=Data1_Module 5_P Pin=P2-33
+Added Pin To Net: NetName=Data1_Module 5_N Pin=P2-35

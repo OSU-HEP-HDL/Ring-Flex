@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Command_Module 2_N Pin=P1-33
+Removed Pin From Net: NetName=Data0_Module 2_P Pin=P1-34
+Removed Pin From Net: NetName=Command_Module 2_P Pin=P1-35
+Removed Pin From Net: NetName=Data0_Module 2_N Pin=P1-36
+Removed Pin From Net: NetName=Clock_Module 2_N Pin=P1-37
+Removed Pin From Net: NetName=Data1_Module 2_N Pin=P1-38
+Removed Pin From Net: NetName=Clock_Module 2_P Pin=P1-39
+Removed Pin From Net: NetName=Data1_Module 2_P Pin=P1-40
+Added Pin To Net: NetName=Clock_Module 2_P Pin=P1-33
+Added Pin To Net: NetName=Data1_Module 2_P Pin=P1-34
+Added Pin To Net: NetName=Clock_Module 2_N Pin=P1-35
+Added Pin To Net: NetName=Data1_Module 2_N Pin=P1-36
+Added Pin To Net: NetName=Command_Module 2_P Pin=P1-37
+Added Pin To Net: NetName=Data0_Module 2_P Pin=P1-38
+Added Pin To Net: NetName=Command_Module 2_N Pin=P1-39
+Added Pin To Net: NetName=Data0_Module 2_N Pin=P1-40

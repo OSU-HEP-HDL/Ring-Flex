@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Ring Flex Member=P?
+Added Component: Designator=P1(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Change Class Name : Old Net Name=Ring Flex New Net Name=Module Connector
+Added Member To Class: ClassName=Module Connector Member=Component P1 CN-2P-M-20
+Added Room: Name=Module Connector

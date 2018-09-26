@@ -1,0 +1,9 @@
+Added Component: Designator=P5(QSH-020-01-X-D-DP-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P6(QSH-020-01-X-D-DP-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P7(QSH-020-01-X-D-DP-A)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Designator Member=Component P5 QSH-020-01-F-D-DP-A
+Added Member To Class: ClassName=Designator Member=Component P6 QSH-020-01-F-D-DP-A
+Added Member To Class: ClassName=Designator Member=Component P7 QSH-020-01-F-D-DP-A

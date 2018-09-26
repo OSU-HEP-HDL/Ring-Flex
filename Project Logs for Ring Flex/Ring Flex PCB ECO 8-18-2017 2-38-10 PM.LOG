@@ -1,0 +1,50 @@
+Added Component: Designator=P1_Module 9(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Module 10(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Module 11(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Module 12(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Module 13(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Module 14(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Module 15(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Module 16(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Module 17(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1_Module 18(SLH-010-1.50-G-D-A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LV_Module 9 Pin=P1_Module 9-1
+Added Net: Name=LV_Module 9
+Added Pin To Net: NetName=LV_Module 10 Pin=P1_Module 10-1
+Added Net: Name=LV_Module 10
+Added Pin To Net: NetName=LV_Module 11 Pin=P1_Module 11-1
+Added Net: Name=LV_Module 11
+Added Pin To Net: NetName=LV_Module 12 Pin=P1_Module 12-1
+Added Net: Name=LV_Module 12
+Added Pin To Net: NetName=LV_Module 13 Pin=P1_Module 13-1
+Added Net: Name=LV_Module 13
+Added Pin To Net: NetName=LV_Module 14 Pin=P1_Module 14-1
+Added Net: Name=LV_Module 14
+Added Pin To Net: NetName=LV_Module 15 Pin=P1_Module 15-1
+Added Net: Name=LV_Module 15
+Added Pin To Net: NetName=LV_Module 16 Pin=P1_Module 16-1
+Added Net: Name=LV_Module 16
+Added Pin To Net: NetName=LV_Module 17 Pin=P1_Module 17-1
+Added Net: Name=LV_Module 17
+Added Pin To Net: NetName=LV_Module 18 Pin=P1_Module 18-1
+Added Net: Name=LV_Module 18
+Added Class: Name=Module 9
+Added Class: Name=Module 10
+Added Class: Name=Module 11
+Added Class: Name=Module 12
+Added Class: Name=Module 13
+Added Class: Name=Module 14
+Added Class: Name=Module 15
+Added Class: Name=Module 16
+Added Class: Name=Module 17
+Added Class: Name=Module 18

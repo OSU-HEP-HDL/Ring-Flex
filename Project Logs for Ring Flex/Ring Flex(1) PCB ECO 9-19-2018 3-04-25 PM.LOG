@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Command_Module 8_N Pin=P3-33
+Removed Pin From Net: NetName=Command_Module 8_P Pin=P3-35
+Added Pin To Net: NetName=Command_Module 8_P Pin=P3-33
+Added Pin To Net: NetName=Command_Module 8_N Pin=P3-35

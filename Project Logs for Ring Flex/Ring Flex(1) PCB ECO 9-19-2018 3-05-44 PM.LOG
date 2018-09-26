@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Clock_Module 8_N Pin=P3-37
+Removed Pin From Net: NetName=Clock_Module 8_P Pin=P3-39
+Added Pin To Net: NetName=Clock_Module 8_P Pin=P3-37
+Added Pin To Net: NetName=Clock_Module 8_N Pin=P3-39

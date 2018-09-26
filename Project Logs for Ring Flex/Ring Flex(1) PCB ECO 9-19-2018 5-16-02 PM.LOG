@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Command_Module 5_P Pin=P2-33
+Removed Pin From Net: NetName=Data1_Module 5_P Pin=P2-34
+Removed Pin From Net: NetName=Command_Module 5_N Pin=P2-35
+Removed Pin From Net: NetName=Data1_Module 5_N Pin=P2-36
+Added Pin To Net: NetName=Data1_Module 5_N Pin=P2-33
+Added Pin To Net: NetName=Command_Module 5_P Pin=P2-34
+Added Pin To Net: NetName=Command_Module 5_N Pin=P2-36

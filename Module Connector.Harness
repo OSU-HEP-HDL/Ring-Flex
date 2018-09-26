@@ -1,0 +1,2 @@
+Data=Data0_N,Data0_P,Data1_N,Data1_P,Data2_N,Data2_P,Data3_N,Data3_P,Command_N,Command_P,Clock_N,Clock_P
+Services=Vout,Vin,NTC1,NTC2,HVout,HVin

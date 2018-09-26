@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=Designator Member=P5
+Removed Member From Class: ClassName=Designator Member=P6
+Removed Member From Class: ClassName=Designator Member=P7
+Added Pin To Net: NetName=NetJ1_Module 1_2 Pin=J1_Module 2-1
+Added Pin To Net: NetName=NetJ1_Module 2_2 Pin=J1_Module 3-1
+Added Pin To Net: NetName=NetJ1_Module 3_2 Pin=J1_Module 4-1
+Added Pin To Net: NetName=NetJ1_Module 4_2 Pin=J1_Module 5-1
+Added Pin To Net: NetName=NetJ1_Module 5_2 Pin=J1_Module 6-1
+Added Pin To Net: NetName=NetJ1_Module 6_2 Pin=J1_Module 7-1
+Added Pin To Net: NetName=NetJ1_Module 7_2 Pin=J1_Module 8-1
+Added Pin To Net: NetName=NetJ1_Module 8_2 Pin=J1_Module 9-1
+Added Pin To Net: NetName=NetJ1_Module 9_2 Pin=J1_Module 10-1
+Added Pin To Net: NetName=GND Pin=J1_Module 10-2
+Added Pin To Net: NetName=NetJ1_Module 1_1 Pin=P5-1
+Added Pin To Net: NetName=NTC_Module 1 Pin=P5-2
+Added Pin To Net: NetName=NTC1_Module 1 Pin=P5-4
+Added Pin To Net: NetName=NTC_Module 2 Pin=P5-6
+Added Pin To Net: NetName=NTC1_Module 2 Pin=P5-8
+Added Pin To Net: NetName=NTC_Module 3 Pin=P5-10
+Added Pin To Net: NetName=NTC1_Module 3 Pin=P5-12
+Added Pin To Net: NetName=NTC_Module 4 Pin=P5-14
+Added Pin To Net: NetName=NTC1_Module 4 Pin=P5-16
+Added Pin To Net: NetName=NTC_Module 5 Pin=P5-18
+Added Pin To Net: NetName=NTC1_Module 5 Pin=P5-20
+Added Pin To Net: NetName=NTC_Module 6 Pin=P5-22
+Added Pin To Net: NetName=NTC1_Module 6 Pin=P5-24
+Added Pin To Net: NetName=NTC_Module 7 Pin=P5-26
+Added Pin To Net: NetName=NTC1_Module 7 Pin=P5-28
+Added Pin To Net: NetName=NTC_Module 8 Pin=P5-30
+Added Pin To Net: NetName=NTC1_Module 8 Pin=P5-32
+Added Pin To Net: NetName=NTC_Module 9 Pin=P5-34
+Added Pin To Net: NetName=NTC1_Module 9 Pin=P5-36
+Added Pin To Net: NetName=NTC_Module 10 Pin=P5-38
+Added Pin To Net: NetName=NTC1_Module 10 Pin=P5-40
+Added Class: Name=U_Services
+Added Room: Name=U_Services

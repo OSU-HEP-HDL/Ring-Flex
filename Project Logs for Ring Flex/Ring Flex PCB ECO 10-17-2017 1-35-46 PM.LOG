@@ -1,0 +1,23 @@
+Added Component: Designator=P1(QSH-020-01-X-D-DP-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(QSH-020-01-X-D-DP-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(QSH-020-01-X-D-DP-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(QSH-020-01-X-D-DP-A)
+Add component. Clean all parameters for all variants
+Change Net Name : Old Net Name=Module.HVin_Module 1 New Net Name=Module1.HVin
+Change Net Name : Old Net Name=Module.HVin_Module 2 New Net Name=Module2.HVin
+Change Net Name : Old Net Name=Module.HVout_Module 1 New Net Name=Module1.HVout
+Change Net Name : Old Net Name=Module.HVout_Module 2 New Net Name=Module2.HVout
+Change Net Name : Old Net Name=Module.NTC1_Module 1 New Net Name=Module1.NTC1
+Change Net Name : Old Net Name=Module.NTC1_Module 2 New Net Name=Module2.NTC1
+Change Net Name : Old Net Name=Module.NTC2_Module 1 New Net Name=Module1.NTC2
+Change Net Name : Old Net Name=Module.NTC2_Module 2 New Net Name=Module2.NTC2
+Change Net Name : Old Net Name=Module.Vin_Module 1 New Net Name=Module1.Vin
+Change Net Name : Old Net Name=Module.Vout_Module 2 New Net Name=Module2.Vout
+Added Pin To Net: NetName=Module1.Vout Pin=P1_Module 1-8
+Added Pin To Net: NetName=Module1.Vout Pin=P1_Module 2-6
+Added Net: Name=Module1.Vout
+Added Class: Name=Designator
+Added Room: Name=Designator
